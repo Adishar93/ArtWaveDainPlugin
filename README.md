@@ -2,6 +2,12 @@
 
 **Image To Music** is a DAIN service that suggests music based on provided artwork. Using deep learning, it generates a musical representation that complements the emotions and themes of the input image, giving each piece a unique sound inspired by the visual elements. Our backend service, deployed on Google Cloud’s App Engine, processes each artwork submission and returns a tailored music track.
 
+## Demo
+
+
+https://github.com/user-attachments/assets/e81da435-4e8c-4020-8052-2937535b28f2
+
+
 ## How It Works
 
 - Users upload an image.
